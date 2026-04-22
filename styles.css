@@ -1,0 +1,51 @@
+.quarto-title-block .quarto-title-banner {
+  height: 500px;
+}
+
+#title-block-header > div.quarto-title-banner.page-columns.page-full > div {
+  padding: 15%;
+}
+
+.subtitle.lead {
+  text-align: center;
+  background-color: rgba(252, 252, 252, 0.85);
+  font-size: 1.75rem;
+}
+
+.page-columns .column-page {
+  z-index: 0;
+}
+
+.battle-teaser {
+  border-color: #07342a;
+  border-width: thin;
+  border-style: solid;
+  border-radius: 0rem;
+  padding: .5rem;
+  margin: .5rem;
+}
+
+.battle-teaser > h3 {
+  text-align: center;
+}
+
+.battle-teaser > h2 {
+  border: none;
+}
+
+
+figcaption {
+  text-align: center;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+
+ .table-card { border:1px solid #eee; border-radius:8px; box-shadow: 0 4px 12px rgba(0,0,0,0.03); padding:18px; background: #fcfcfc; }
+    table.eurocim-table { width:100%; border-collapse:collapse; font-size:14px; }
+    table.eurocim-table thead th { text-align:left; padding:10px 12px; font-weight:600; border-bottom:2px solid #e6e6e6; font-family:'Inter',sans-serif; }
+    table.eurocim-table tbody td { padding:10px 12px; border-bottom:1px solid #f0f0f0; vertical-align:top; }
+    table.eurocim-table tbody tr:hover td { background:#fbfbfb; }
+
+    /* Small screens */
+  /*  @media (max-width:700px) { .wrap { padding:14px; margin:20px; } table.eurocim-table thead { display:none; } table.eurocim-table tbody td { display:block; width:100%; box-sizing:border-box; } table.eurocim-table tbody td:before { content: attr(data-colname) ': '; font-weight:600; display:inline-block; width:40%; } }*/

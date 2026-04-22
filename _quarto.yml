@@ -1,0 +1,50 @@
+project:
+  type: website
+  resources: 
+    - data/*
+  output-dir: docs
+
+website: 
+  open-graph:
+    image: eurocim-icon.gif
+  image: eurocim-icon.gif
+  favicon: "eurocim-icon.gif"
+  title: "European Causal Inference Meeting 2027 -- Paris, France"
+  navbar:
+    pinned: true
+    title: EUROCIM 2027
+    logo: "eurocim-icon.gif"
+    background: "#07342a"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: contact.qmd
+        text: Contact
+      - href: https://eurocim.org/
+        text: EuroCIM Home
+  page-footer:
+    background: "#07342a"
+    left: 
+      - text: "Contact webmaster"
+        href: "mailto:michael.sachs@sund.ku.dk?subject=[EuroCIM website]"
+      - text: "EuroCIM Home"
+        href: "https://eurocim.org/"
+    right: 
+      - text: "Photo (header): View of Paris from the MAP Building, Credit: Antoine Chambaz"
+        
+format:
+    html:
+      page-layout: full
+      title-block-banner: images/paris-header.png
+      title-block-style: plain
+      theme: 
+        - sandstone
+        - custom.scss
+      css: 
+        - styles.css
+        - modal.css
+      toc: false
+      background: "#07342a"
+      logo: "eurocim-icon.gif"
+
+      
