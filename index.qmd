@@ -18,3 +18,48 @@ More information coming soon!
 | EuroCIM Paris | 14-16 April 2027 |
 
 
+## Venue
+
+Université Paris Cité</br>
+45 rue des Saints-Pères</br>
+75270 Paris cedex 06</br>
+France
+
+[Get directions on Google maps](https://maps.app.goo.gl/ps5xyJARwKoJh4gu7)
+
+
+## Keynote speakers
+
+::: {layout-ncol=3}
+
+[![__Alex Luedtke__ is a Professor of Health Care Policy and Affiliate in Statistics at Harvard University.](images/speakers/alex_luedtke.jpg)](https://alexluedtke.com/)
+
+[![__Émilie Kaufmann__ is a a CNRS researcher in the CRIStAL at Université de Lille.](images/speakers/emilie_kaufmann.jpg)](https://emiliekaufmann.github.io/)
+
+[![__Sara Magliacane__ is a full Professor at Saarland University since 2026 and is also part of the Amsterdam Machine Learning Lab at the University Amsterdam.](images/speakers/sara_magliacane.jpg)](https://saramagliacane.github.io/)
+
+:::
+
+## Special Talk
+
+[![__Guido Imbens__ (Stanford University)](images/speakers/guido-imbens.png)](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens)
+
+## Invited speakers
+
+::: {layout-ncol=3}
+
+
+[![Agathe Guilloux (Inria et UPCité)](images/speakers/agathe_guilloux.jpg)](https://sites.google.com/view/agatheguilloux-personalwebsite/?pli=1)
+
+[![Linda Valeri (Columbia University)](images/speakers/linda_valeri.png)](https://www.lindavaleri.com/)
+
+[![Niki Kilbertus (Technical University of Munich)](images/speakers/niki_kilbertus.jpeg)](https://sites.google.com/view/nikikilbertus/home)
+
+[![Adèle H. Ribeiro (RWTH Aachen University)](images/speakers/adele_ribeiro.jpeg)](https://adele.github.io/#about)
+
+[![Melody Huang (Yale University)](images/speakers/melody_huang.jpg)](https://melodyyhuang.com/)
+
+[![Sebastian Weichwald (University of Copenhagen)](images/speakers/sebastian_weichwald.jpg)](https://sweichwald.de/)
+
+
+:::
