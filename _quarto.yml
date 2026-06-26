@@ -18,6 +18,8 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: tutorials.qmd
+        text: Tutorials
       - href: contact.qmd
         text: Contact
       - href: https://eurocim.org/

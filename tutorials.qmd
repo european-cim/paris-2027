@@ -1,0 +1,22 @@
+---
+subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Pre-conference Tutorials"
+toc: true
+toc-depth: 2
+editor_options: 
+  chunk_output_type: console
+---
+
+Tutorials will be on April 13th. 
+
+# Invited Tutorials -- Special Topics
+
+More information coming soon.
+
+::: {layout-ncol=3}
+
+![Issa Dahabreh](images/speakers/issa_dahabreh.jpg)
+
+![Emilie Kaufmann](images/speakers/emilie_kaufmann.jpg)
+
+:::
+

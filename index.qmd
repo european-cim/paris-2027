@@ -5,7 +5,7 @@ subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Causal inference in health, ec
 # EuroCIM 2027 Paris, France
 
 
-The conference will be from 14-16 April 2027, with pre-conference courses on the 13th.
+The conference will be from 14-16 April 2027, with pre-conference tutorials on the 13th.
 
 More information coming soon!
 
@@ -64,3 +64,13 @@ France
 
 
 :::
+
+
+
+## Pre-conference Tutorials
+
+Tutorials will be on April 13th. 
+
+[Click here for more information about the tutorials](tutorials.qmd)
+
+
