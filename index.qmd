@@ -41,9 +41,6 @@ France
 
 :::
 
-## Special Talk
-
-[![__Guido Imbens__ (Stanford University)](images/speakers/guido-imbens.png)](https://www.gsb.stanford.edu/faculty-research/faculty/guido-w-imbens)
 
 ## Invited speakers
 
