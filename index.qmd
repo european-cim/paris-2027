@@ -71,3 +71,13 @@ Tutorials will be on April 13th.
 [Click here for more information about the tutorials](tutorials.qmd)
 
 
+## Sponsors
+
+::: {layout-ncol=3}
+
+[![MAP5](images/sponsors/map5.jpg){height=75px}](https://map5.mi.parisdescartes.fr/)
+
+[![Inria](images/sponsors/inr_logo_rouge.jpg){height=75px}](https://www.inria.fr/fr)
+
+[![PreMeDICaL](images/sponsors/premedical.png){height=75px}](https://team.inria.fr/premedical/)
+
