@@ -1,6 +1,8 @@
 ---
-subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Causal inference in health, economics, and social sciences </br>Paris, France, April 14-16, 2027"
+subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Causal inference in health, economics, and social sciences </br>Paris, France, April 14-16, 2027" 
 ---
+
+
 
 # EuroCIM 2027 Paris, France
 
@@ -8,6 +10,7 @@ subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Causal inference in health, ec
 The conference will be from 14-16 April 2027, with pre-conference tutorials on the 13th.
 
 More information coming soon!
+
 
 
 ## Key dates
@@ -80,4 +83,12 @@ Tutorials will be on April 13th.
 [![Inria](images/sponsors/inr_logo_rouge.jpg){height=75px}](https://www.inria.fr/fr)
 
 [![PreMeDICaL](images/sponsors/premedical.png){height=75px}](https://team.inria.fr/premedical/)
+
+:::
+
+## Local organizing committee 
+
+Tess Breton, Antoine Chambaz, Tomas Maiuri, Vittorio Perduca, Geneviève Robin (MAP5), Clément Berenfeld, Francisco de Andrade-Lima, Mathieu Even, Laura Fuentes, Julie Josse (Inria-Inserm PreMeDICaL), Aurélie Fischer, Erwan Scornet (LPSM), Judith Abécassis (Inria SODA), Alexander Reisach (LMO), Tat-Thang Vo (UPEC)
+
+![](images/logo_eurocim.png){fig-align="center" width=30%}
 

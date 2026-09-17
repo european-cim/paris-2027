@@ -8,3 +8,6 @@ subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Contact"
 [Email the webmaster](mailto:michael.sachs@sund.ku.dk?subject=[EuroCIM Paris website])
 
 [Bluesky profile](https://bsky.app/profile/eurocim.bsky.social)
+
+
+![](images/logo_eurocim.png){fig-align="center" width=30%}

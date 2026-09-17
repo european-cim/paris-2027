@@ -1,22 +1,25 @@
 ---
 subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Pre-conference Tutorials"
-toc: true
+---
+<!--toc: true
 toc-depth: 2
 editor_options: 
-  chunk_output_type: console
----
+  chunk_output_type: console-->
 
 Tutorials will be on April 13th. 
+
 
 # Invited Tutorials -- Special Topics
 
 More information coming soon.
 
-::: {layout-ncol=3}
+::: {layout-ncol=2}
 
-![Issa Dahabreh](images/speakers/issa_dahabreh.jpg)
+[![Issa Dahabreh (Harvard T.H. Chan School of Public Health)](images/speakers/issa_dahabreh.jpg){height=250px}](https://hsph.harvard.edu/profile/issa-dahabreh/)
 
-![Emilie Kaufmann](images/speakers/emilie_kaufmann.jpg)
+[![Emilie Kaufmann (CNRS, Université de Lille)](images/speakers/emilie_kaufmann.jpg){height=250px}](https://emiliekaufmann.github.io/)
 
 :::
 
+
+![](images/logo_eurocim.png){fig-align="center" width=30%}
