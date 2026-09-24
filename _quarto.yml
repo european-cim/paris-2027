@@ -20,6 +20,8 @@ website:
         text: Home
       - href: tutorials.qmd
         text: Tutorials
+      - href: sponsorship.qmd 
+        text: Sponsorship
       - href: contact.qmd
         text: Contact
       - href: https://eurocim.org/
