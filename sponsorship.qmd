@@ -13,10 +13,10 @@ For sponsorship inquiries, please [contact the organizers](mailto:eurocim.conf@g
 |---|:---:|:---:|:---:|
 | Logo on website and program | ✓  | ✓ | ✓ |
 | Larger logo |  |  | ✓ |
-| Invitations | 1 | 2 | 4 |
+| Complementary registrations | 1 | 2 | 4 |
 | Sponsored poster presentation | ✓ | ✓ | ✓ |
-| Exhibition space |  | ✓ | ✓ |
-| Sponsored oral presentation |  |  | ✓ |
+| Dedicated sponsor stand |  | ✓ | ✓ |
+| Short sponsored oral presentation |  |  | ✓ |
 | Acknowledgement during official speeches |  |  | ✓ |
 
 <br><br>
