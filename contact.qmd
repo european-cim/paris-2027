@@ -3,9 +3,9 @@ subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Contact"
 ---
 
 
-[Email the organizers](mailto:eurocim.conf@gmail.com)
+[Email the organizers](mailto:eurocim2027@inria.fr)
 
-[Email the webmaster](mailto:michael.sachs@sund.ku.dk?subject=[EuroCIM Paris website])
+[Email the webmaster](mailto:clement.berenfeld@inria.fr,alexander.reisach@gmail.com?subject=[EuroCIM Paris website])
 
 [Bluesky profile](https://bsky.app/profile/eurocim.bsky.social)
 
