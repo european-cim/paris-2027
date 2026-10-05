@@ -84,6 +84,8 @@ Tutorials will be on April 13th.
 
 [![PreMeDICaL](images/sponsors/premedical.png){height=75px}](https://team.inria.fr/premedical/)
 
+[![RT Math Bio Santé](images/sponsors/rtmathbiosante.png){height=75px}](https://math-bio-sante.math.cnrs.fr/)
+
 :::
 
 ## Local organizing committee 
