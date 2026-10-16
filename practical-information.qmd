@@ -2,7 +2,11 @@
 subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Practical Information"
 ---
 
-More information coming soon.
+(a) The conference rooms are located on the 1st and 3rd floors of the building. You are encouraged to use the stairs to access them. Please wear appropriate footwear.
+
+(b) The seating in the conference rooms is not very comfortable! We advise sensitive attendees to bring a small cushion, as at the opera.
+
+(c) Remember to bring a reusable water bottle.
 
 
 ![](images/logo_eurocim.png){fig-align="center" width=30%}

@@ -49,3 +49,6 @@ figcaption {
 
     /* Small screens */
   /*  @media (max-width:700px) { .wrap { padding:14px; margin:20px; } table.eurocim-table thead { display:none; } table.eurocim-table tbody td { display:block; width:100%; box-sizing:border-box; } table.eurocim-table tbody td:before { content: attr(data-colname) ': '; font-weight:600; display:inline-block; width:40%; } }*/
+
+/* Registration page: separate the fee tables */
+#registration-fees table { margin-bottom: 3rem; }

@@ -11,7 +11,7 @@ editor_options:
 Courses will be on April 13th. 
 
 
-# Invited Courses -- Special Topics
+# Invited Courses
 
 More information coming soon.
 
@@ -22,6 +22,42 @@ More information coming soon.
 [![Emilie Kaufmann (CNRS, Université de Lille)](images/speakers/emilie_kaufmann.jpg){height=250px}](https://emiliekaufmann.github.io/)
 
 :::
+
+
+# Recurring courses -- Pre-conference introduction
+
+::: {layout-ncol=2}
+
+![Rhian Daniel (Cardiff University)](images/speakers/rhian.jpg){height=250px}
+
+![Erin Gabriel (University of Copenhagen)](images/speakers/erin.png){height=250px}
+
+:::
+
+
+## Introduction to Causal Inference, by Rhian Daniel (Cardiff University) and Erin Gabriel (University of Copenhagen)
+
+This course (which had its first incarnation at the UK-CIM 2016) is a whistlestop tour of the concepts and methods of causal inference, aimed at an audience of newcomers to the area, but who have a working knowledge of topics such as regression models. The emphasis is on giving enough background on the basic ideas so that the Euro-CIM meeting can be enjoyed without feeling lost. The material covered might therefore change slightly once the final programme for the meeting is known, but is likely to include:
+
+- the different languages of causality, e.g. do-notation, potential outcomes
+- how these languages express causal effects
+- the sorts of assumptions often relied upon to identify causal effects, and the meaning of identification
+- graphical models used in causal inference, including DAGs and SWIGs
+- regression models as causal models
+- methods based on the propensity score
+
+The fact that the list above is far too long for a half-day course gives an impression of the nature of the workshop - rather than dwell on all the intricacies of the various methods and approaches, and how one might apply them in practice using computer packages, the focus will instead be on imparting the main ideas before moving swiftly on to the next topic.
+
+
+## Special Topics in Causal Inference, organized by Rhian Daniel (Cardiff University) and Erin Gabriel (University of Copenhagen)
+
+This is a continuation of the Introduction course, where we will dive deeper into specialized tools and methods. The list below gives some examples, but may be changed or expanded to highlight some of the themes and topics that will be spoken about at the conference.
+
+- instrumental variable methods, including Mendelian randomisation
+- sustained exposures and time-varying confounders
+- target trial emulation
+- mediation analysis
+
 
 
 ![](images/logo_eurocim.png){fig-align="center" width=30%}

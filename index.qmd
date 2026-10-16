@@ -86,11 +86,13 @@ Courses will be on April 13th.
 
 [![RT Math Bio Santé](images/sponsors/rtmathbiosante.png){height=75px}](https://math-bio-sante.math.cnrs.fr/)
 
+[![Theremia](images/sponsors/logo_theremia.jpeg){height=75px}](https://theremia.health/)
+
 :::
 
 ## Local organizing committee 
 
-Tess Breton, Antoine Chambaz, Tomas Maiuri, Vittorio Perduca, Geneviève Robin (MAP5), Clément Berenfeld, Francisco de Andrade-Lima, Mathieu Even, Laura Fuentes, Julie Josse (Inria-Inserm PreMeDICaL), Aurélie Fischer, Erwan Scornet (LPSM), Judith Abécassis (Inria SODA), Alexander Reisach (LMO), Tat-Thang Vo (UPEC)
+Tess Breton, Antoine Chambaz, Tomas Maiuri, Vittorio Perduca, Geneviève Robin (MAP5), Clément Berenfeld, Francisco de Andrade-Lima, Mathieu Even, Laura Fuentes, Julie Josse (Inria-Inserm PreMeDICaL), Aurélie Fischer, Erwan Scornet (LPSM), Judith Abécassis (Inria SODA), Alexander Reisach (Prior Labs), Tat-Thang Vo (IMRB Paris-Est Créteil)
 
 ![](images/logo_eurocim.png){fig-align="center" width=30%}
 

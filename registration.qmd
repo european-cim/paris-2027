@@ -1,5 +1,6 @@
 ---
 subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Registration"
+tbl-colwidths: [50, 25, 25]
 ---
 
 More information coming soon.
