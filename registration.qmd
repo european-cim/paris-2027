@@ -5,4 +5,23 @@ subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Registration"
 More information coming soon.
 
 
+## Registration Fees
+
+All fees include VAT.
+
+| Conference | Early bird | Standard |
+|---|:---:|:---:|
+| Student | €150 | €200 |
+| Academic | €300 | €350 |
+| Industry | €350 | €400 |
+| Gala dinner | €150 | €150 |
+| Accompanying person | €150 | €150 |
+
+
+| [Pre-conference courses](courses.qmd) | Half day | Full day |
+|---|:---:|:---:|
+| Student | €75 | €150 |
+| Academic | €100 | €200 |
+
+
 ![](images/logo_eurocim.png){fig-align="center" width=30%}
