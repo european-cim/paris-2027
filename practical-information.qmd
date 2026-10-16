@@ -1,0 +1,8 @@
+---
+subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Practical Information"
+---
+
+More information coming soon.
+
+
+![](images/logo_eurocim.png){fig-align="center" width=30%}

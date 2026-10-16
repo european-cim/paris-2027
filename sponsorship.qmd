@@ -17,7 +17,7 @@ For sponsorship inquiries, please [contact the organizers](mailto:eurocim2027@in
 |---|:---:|:---:|:---:|
 | Logo on website and program | ✓  | ✓ | ✓ |
 | Larger logo |  | ✓ | ✓ |
-| Access to [pre-conference courses](https://eurocim.org/paris-2027/tutorials.html) | ✓ | ✓ | ✓ |
+| Access to [pre-conference courses](courses.qmd) | ✓ | ✓ | ✓ |
 | Complementary registrations | 1 | 2 | 4 |
 | Sponsored poster presentation | ✓ | ✓ | ✓ |
 | Dedicated sponsor stand |  | ✓ | ✓ |

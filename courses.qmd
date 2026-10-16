@@ -1,15 +1,17 @@
 ---
-subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Pre-conference Tutorials"
+subtitle: "EUROPEAN CAUSAL INFERENCE MEETING</br> Pre-conference Courses"
+aliases:
+  - tutorials.html
 ---
 <!--toc: true
 toc-depth: 2
 editor_options: 
   chunk_output_type: console-->
 
-Tutorials will be on April 13th. 
+Courses will be on April 13th. 
 
 
-# Invited Tutorials -- Special Topics
+# Invited Courses -- Special Topics
 
 More information coming soon.
 
