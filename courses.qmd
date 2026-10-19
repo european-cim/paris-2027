@@ -13,17 +13,23 @@ Courses will be on April 13th.
 
 # Invited Courses
 
-More information coming soon.
+## Title to be announced, by Issa Dahabreh (Harvard T.H. Chan School of Public Health)
 
-::: {layout-ncol=2}
+::: {layout-ncol=1}
 
-[![Issa Dahabreh (Harvard T.H. Chan School of Public Health)](images/speakers/issa_dahabreh.jpg){height=250px}](https://hsph.harvard.edu/profile/issa-dahabreh/)
-
-[![Emilie Kaufmann (CNRS, Université de Lille)](images/speakers/emilie_kaufmann.jpg){height=250px}](https://emiliekaufmann.github.io/)
+[![Issa Dahabreh](images/speakers/issa_dahabreh.jpg){height=250px}](https://hsph.harvard.edu/profile/issa-dahabreh/)
 
 :::
 
+More information coming soon.
+
 ## Sequential Decision Making, by Emilie Kaufmann (CNRS, Université de Lille)
+
+::: {layout-ncol=1}
+
+[![Emilie Kaufmann](images/speakers/emilie_kaufmann.jpg){height=250px}](https://emiliekaufmann.github.io/)
+
+:::
 
 In this course, Emilie will provide an introduction to multi-armed bandits and reinforcement learning. She will present several popular algorithms, for different problem formulations.
 

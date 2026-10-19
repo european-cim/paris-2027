@@ -98,11 +98,18 @@
     "text": "Courses will be on April 13th."
   },
   {
+    "objectID": "courses.html#title-to-be-announced-by-issa-dahabreh-harvard-t.h.-chan-school-of-public-health",
+    "href": "courses.html#title-to-be-announced-by-issa-dahabreh-harvard-t.h.-chan-school-of-public-health",
+    "title": "Invited Courses",
+    "section": "Title to be announced, by Issa Dahabreh (Harvard T.H. Chan School of Public Health)",
+    "text": "Title to be announced, by Issa Dahabreh (Harvard T.H. Chan School of Public Health)\n\n\n\n\n\n\n\n\n\nIssa Dahabreh\n\n\n\n\n\nMore information coming soon."
+  },
+  {
     "objectID": "courses.html#sequential-decision-making-by-emilie-kaufmann-cnrs-université-de-lille",
     "href": "courses.html#sequential-decision-making-by-emilie-kaufmann-cnrs-université-de-lille",
     "title": "Invited Courses",
     "section": "Sequential Decision Making, by Emilie Kaufmann (CNRS, Université de Lille)",
-    "text": "Sequential Decision Making, by Emilie Kaufmann (CNRS, Université de Lille)\nIn this course, Emilie will provide an introduction to multi-armed bandits and reinforcement learning. She will present several popular algorithms, for different problem formulations."
+    "text": "Sequential Decision Making, by Emilie Kaufmann (CNRS, Université de Lille)\n\n\n\n\n\n\n\n\n\nEmilie Kaufmann\n\n\n\n\n\nIn this course, Emilie will provide an introduction to multi-armed bandits and reinforcement learning. She will present several popular algorithms, for different problem formulations."
   },
   {
     "objectID": "courses.html#introduction-to-causal-inference-by-rhian-daniel-cardiff-university-and-erin-gabriel-university-of-copenhagen",
