@@ -23,6 +23,10 @@ More information coming soon.
 
 :::
 
+## Sequential Decision Making, by Emilie Kaufmann (CNRS, Université de Lille)
+
+In this course, Emilie will provide an introduction to multi-armed bandits and reinforcement learning. She will present several popular algorithms, for different problem formulations.
+
 
 # Recurring courses -- Pre-conference introduction
 
