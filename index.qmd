@@ -82,9 +82,9 @@ Courses will be on April 13th.
 
 ::: {layout-ncol=2}
 
-[![Doctolib](images/sponsors/doctolib.svg){height=110px}](https://www.doctolib.fr/)
+[![Doctolib](images/sponsors/doctolib.svg){height=100px}](https://www.doctolib.fr/)
 
-[![MAP5](images/sponsors/map5.png){height=110px}](https://map5.mi.parisdescartes.fr/)
+[![MAP5](images/sponsors/map5.png){height=100px}](https://map5.mi.parisdescartes.fr/)
 
 :::
 
