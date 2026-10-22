@@ -76,9 +76,28 @@ Courses will be on April 13th.
 
 ## Sponsors
 
+### Platinum
+
+<div style="height: 1.5rem;"></div>
+
+::: {layout-ncol=2}
+
+[![Doctolib](images/sponsors/doctolib.svg){height=110px}](https://www.doctolib.fr/)
+
+[![MAP5](images/sponsors/map5.png){height=110px}](https://map5.mi.parisdescartes.fr/)
+
+:::
+
+### Gold
+
 ::: {layout-ncol=3}
 
-[![MAP5](images/sponsors/map5.png){height=75px}](https://map5.mi.parisdescartes.fr/)
+:::
+
+### Silver
+
+::: {layout-ncol=3}
+
 
 [![Inria](images/sponsors/inr_logo_rouge.jpg){height=75px}](https://www.inria.fr/fr)
 
