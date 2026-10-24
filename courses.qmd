@@ -13,15 +13,20 @@ Courses will be on April 13th.
 
 # Invited Courses
 
-## Issa Dahabreh (Harvard T.H. Chan School of Public Health)
+## Causal Meta-Analysis, by Issa Dahabreh (Harvard T.H. Chan School of Public Health) and Julie Josse (Inria-Inserm Premedical)
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
 
 [![Issa Dahabreh](images/speakers/issa_dahabreh.jpg){height=250px}](https://hsph.harvard.edu/profile/issa-dahabreh/)
 
+[![Julie Josse](images/speakers/julie_josse.jpg){height=250px}](https://juliejosse.com/)
+
 :::
 
-More information coming soon.
+In this tutorial, we provide an overview of recent developments in causal meta-analysis, focusing on methods for estimating treatment effects from heterogeneous data sources. Heterogeneity may arise from differences in study populations, study designs, data granularity (ranging from fully aggregated trial data and covariate summaries to individual participant data from randomized trials and observational studies) and data availability.
+
+Throughout, we emphasize the role of generalizability and transportability in defining and identifying treatment effects for target populations that may differ from those represented in the available studies. We will also discuss federated causal learning as a promising framework for synthesizing evidence across decentralized data sources without requiring individual-level data sharing.
+
 
 ## Sequential Decision Making, by Emilie Kaufmann (CNRS, Université de Lille)
 

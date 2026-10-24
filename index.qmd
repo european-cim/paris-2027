@@ -82,15 +82,15 @@ Courses will be on April 13th.
 
 ::: {layout-ncol=2}
 
-[![Doctolib](images/sponsors/doctolib.svg){height=100px}](https://www.doctolib.fr/)
+[![Doctolib](images/sponsors/doctolib.svg){height=90px}](https://www.doctolib.fr/)
 
-[![MAP5](images/sponsors/map5.png){height=100px}](https://map5.mi.parisdescartes.fr/)
+[![MAP5](images/sponsors/map5.png){height=90px}](https://map5.mi.parisdescartes.fr/)
 
 :::
 
 ### Gold
 
-::: {layout-ncol=3}
+::: {layout-ncol=2}
 
 :::
 
@@ -111,7 +111,7 @@ Courses will be on April 13th.
 
 ## Local organizing committee 
 
-Tess Breton, Antoine Chambaz, Tomas Maiuri, Vittorio Perduca, Geneviève Robin (MAP5), Clément Berenfeld, Francisco de Andrade-Lima, Mathieu Even, Laura Fuentes, Julie Josse (Inria-Inserm PreMeDICaL), Aurélie Fischer, Erwan Scornet (LPSM), Judith Abécassis (Inria SODA), Alexander Reisach (Prior Labs), Tat-Thang Vo (IMRB Paris-Est Créteil)
+Tess Breton, Antoine Chambaz, Tomas Maiuri, Geneviève Robin (MAP5), Clément Berenfeld, Francisco de Andrade-Lima, Mathieu Even, Laura Fuentes, Julie Josse (Inria-Inserm PreMeDICaL), Aurélie Fischer, Erwan Scornet (LPSM), Judith Abécassis (Inria SODA), Vittorio Perduca (CESP), Alexander Reisach (Prior Labs), Tat-Thang Vo (IMRB Paris-Est Créteil)
 
 ![](images/logo_eurocim.png){fig-align="center" width=30%}
 
