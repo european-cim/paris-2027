@@ -92,7 +92,7 @@ Courses will be on April 13th.
 
 ::: {layout-ncol=2}
 
-[![Doctolib](images/sponsors/TFC_LOGO_original){height=120px}](https://www.theforecastingcompany.com/)
+[![The Forecasting Company](images/sponsors/TFC_LOGO_original){height=120px}](https://www.theforecastingcompany.com/)
 
 :::
 

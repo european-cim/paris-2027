@@ -44,7 +44,7 @@ For sponsorship inquiries, please [contact the organizers](mailto:eurocim2027@in
 
 ::: {layout-ncol=2}
 
-[![Doctolib](images/sponsors/TFC_LOGO_original){height=120px}](https://www.theforecastingcompany.com/)
+[![The Forecasting Company](images/sponsors/TFC_LOGO_original){height=120px}](https://www.theforecastingcompany.com/)
 
 :::
 
