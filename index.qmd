@@ -27,6 +27,7 @@ You will need to create an Indico account to begin the submission process. Pleas
 |------------------------|--------------------|
 | Call for abstracts open | 19 November 2026 |
 | Call for abstracts deadline | 16 January 2027 |
+| Abstract decision notification | 22-25 February 2027 |
 | Pre-conference courses | 13 April 2027 |
 | EuroCIM Paris | 14-16 April 2027 |
 
